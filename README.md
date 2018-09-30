@@ -1,3 +1,15 @@
+# 该项目处理了原作中的PR #2940 
+**Bug:**<br>X-Address控件绑定值，手动赋值为空数组时，直接点击，触发弹框后，不滚动picker，直接点击完成，没有赋值
+> 在您的项目中使用此仓库
+
+```node
+npm install github:ontheway0101/vux
+```
+
+**请务必使用npm而不是cnpm**
+
+**2018.9.30**
+
 <p align="center">
   <a href="http://vux.li">
     <img src="https://i.loli.net/2017/11/20/5a12187ebf2e0.png" width="175">
